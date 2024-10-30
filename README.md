@@ -6,3 +6,4 @@ Play / Pause Button: Start or pause the currently loaded song.
 Previous / Next Buttons: Skip to the previous or next song in the playlist.
 Progress Bar: Tracks and displays the current playback progress as a percentage.
 Playlist Integration: Songs are loaded from a designated file in the repository.
+[Live Demo](https://gmalik-dev.github.io/MusicPlayer/)
